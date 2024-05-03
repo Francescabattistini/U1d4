@@ -1,0 +1,21 @@
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+header { background-color: rgb(0, 0, 0);height: 100px;text-align: center;padding-top:40%;}
+img{width: 100px 
+    ; }
+ #bottone_rosso{color: rgb(255, 255, 255);background-color: rgb(238, 47, 47); padding: 5px; border-radius: 5%; }
+p{margin: auto; padding: 3em;}
+#corso {margin-bottom: auto;}
+
+main {background-image: url(assets/banner.jpg); background-size:cover;}
+
+    footer{background-color: #25a2c3;}
+    #footer { border-top: 2px; margin: auto;}
+ section {background-color: red; padding:40px;}
