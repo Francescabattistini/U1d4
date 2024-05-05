@@ -30,7 +30,8 @@ p {
   font-family: Open Sans;
   font-size: 1.2rem;
   line-height: 1.65;
-  padding-top: 20px;
+  padding-top: 5px;
+  padding: 20px;
 }
 
 #Corso {
@@ -68,14 +69,73 @@ h2 {
   font-size: 1em;
   line-height: 1em;
 }
+h3 {
+  font-size: 30px;
+}
+.tremesi {
+  color: white;
+}
+span {
+  font-size: 1.5rem;
+}
 #immagine-rotonda {
   border-radius: 50%;
+  width: 190px;
+  height: 190px;
 }
+main {
+  margin: 50px 50px;
+  padding: 20px;
+  line-height: 1.5;
+}
+
 #rossa {
   background-color: #f04c2f;
-  padding: 20px;
-  margin: 20px;
+  padding: 50px;
+  height: 250px;
+  margin-top: 50px;
   color: white;
   font-family: "Montserrat";
   font-weight: bold;
+}
+.cards {
+  border: 1px solid #dee1e3;
+  width: 100%;
+  margin: 40px auto;
+  border-radius: 5px;
+}
+
+.img {
+  padding-top: 40px;
+  width: 400px;
+  height: 350px;
+}
+footer {
+  background-color: #25a2c3;
+  line-height: 1.2rem;
+  padding: 20px;
+}
+footer div h1 {
+  color: white;
+}
+#pix {
+  border-top: 1px solid white;
+  color: white;
+  width: 240px;
+  margin: 30px auto;
+  padding: 40px;
+  font-size: 0.8em;
+}
+i {
+  color: white;
+}
+div i {
+  text-decoration: underline;
+}
+div span {
+  text-decoration: underline;
+
+  color: white;
+
+  font-size: 0.8em;
 }
